@@ -1,0 +1,24 @@
+
+html,div,ul,body,li{margin: 0px;}
+a{text-decoration: none;}
+
+#nav{width: 1920px;height: 47px;background-color:#000000}
+
+.nav_left{width:680px;height: 47px;float: left;}
+.img_a{width: 46px;height: 17px;line-height: 47px;margin-left: 317px}
+
+.nav_right{width:1240px;height: 47px;float: left}
+.nav_right_ul{list-style: none;padding-: 0px;margin-right: 317px ;float: right}
+.nav_right_nav{color:#E0E0E0;float:right;line-height: 47px;font-size: 15px;margin-left: 30px}
+.bottum{width: 1920px;height: 232px;padding: 0}
+.bottum_ul{list-style: none;float: left;width: 1920px;height: 232px;padding: 0;margin: 0}
+.bottum_li{width: 300px; float: left;height: 50px;margin-left: 100px;}
+.bottum_li_img{float: left;width: 50px;height: 50px;}
+.bottum_li_i{margin-top:90px}
+.bottum_li_text{margin-top:93px;float: left;height: 50px;margin-left: 30px;color:#111010;font-family: ".萍方-简";font-weight: 330;font-size: 18px}
+.text{font-size: 14px;color: #878787;font-family: ".萍方-简";font-weight: 300}
+.bottum a{color:#191717}
+.bottum a:hover{color:rgba(255,116,14,1.00)!important} 
+.nav_right_ul a:hover{color:#A2A2A2;}
+.nav_right_ul a{color:#E0E0E0;}
+#img{border-left: rgba(255,255,255,1.00)}

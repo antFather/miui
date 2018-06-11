@@ -1,0 +1,19 @@
+
+html,bady,ul,li{margin: 0;padding: 0}
+.nav{width: 100%;height: 47px;background-color: #000;}/* CSS Document */
+.nav_left{width: 50%;height: 47px;float: left}
+.nav_left_i{width: 46px;height: 17px;margin-left: 33%;margin-top: 15px}
+.nav_right{width: 50%;height: 47px;float: left;font-size: 15px;font-family: ".萍方-简";font-style: normal;font-weight: 300;color: rgba(188,188,188,1.00)}
+.nav_right_a{margin-left: 35px;text-decoration: none;line-height: 47px;color:#fff;}
+.nav_right_a:hover{color:#939393}
+.nav_right_aa{margin-left:33%;text-decoration: none;line-height: 47px;color:#939393;}
+.bottom{width: 100%;height: 232px;}
+.bottom_u{width: 1280px;height: 232px;margin: 0 auto;list-style: none;}
+.bottom_li{float: left;width: 33%;height: 50px;border-left-color: rgba(215,215,215,1.00);border-left-style: solid;border-width: 1px;margin-top: 90px;}
+.bottom_img{vertical-align: middle;float: left;margin-right: 20px;margin-left: 80px}
+.bottom_b{text-decoration: none;}
+.bottom_li a{text-decoration: none;margin:17px 0;}
+.bottom_p{font-size: 15px;color: rgba(94,94,94,1.00)}
+.bottom_a{font-size: 20px;color:#222222;font-weight: 320;font-family: ".萍方-简";}
+.bottom-a1{font-size: 15px;color:#888888;font-weight: 300;font-family: ".萍方-简";}
+.bottom ul li:hover a p{color: rgba(255,118,0,1.00)}
